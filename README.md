@@ -1,6 +1,6 @@
 # Silvanei Martins :man_technologist:
 
-## Olá! 🖖 PT-BR 🇧🇷
+## Olá! 🖖
 <h3>Meu nome é Silvanei Martins, sou desenvolvedor brasileiro de back-end / front-end / Mobile. Estou interessado em melhorar minhas habilidades como desenvolvedor e aprender sobre mais sobre a tecnologia.<h3>
 
 ### :man_technologist: Minha stack atual:
