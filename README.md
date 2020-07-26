@@ -16,7 +16,7 @@ Meu nome é Silvanei Martins, sou desenvolvedor brasileiro de back-end / front-e
  
  ### ✔️ Meu ambiente de desenvolvimento:
  - **Sistema Operacional**: Arch Linux, Linux/Manjaro
- - **Windows Manager**: i3-gaps Linux + [3-gaps](https://github.com/Airblader/i3)
+ - **Windows Manager**: [3-gaps Linux](https://github.com/Airblader/i3)
  - **Terminal**: ZSH + Tmux + [Zinit](https://github.com/zdharma/zinit) + [Powerlevel10k](https://github.com/romkatv/powerlevel10k) + [FluentTerminal](https://github.com/felixse/FluentTerminal)
  - **Editor**: Visual Studio 2019, Visual Studio Code, Atom, Notepad ++ 
  - **Ferramentas mais usadas**: Git, Docker, DBeaver, Figma, Adobe XD, Postman/Insomnia, [FZF](https://github.com/junegunn/fzf)
