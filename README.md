@@ -2,6 +2,8 @@
 
 ## Olá! 🖖
 <h3>Meu nome é Silvanei Martins, sou desenvolvedor brasileiro de back-end / front-end / Mobile. Estou interessado em melhorar minhas habilidades como desenvolvedor e aprender sobre mais sobre a tecnologia.<h3>
+ 
+![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow) 
 
 ### :man_technologist: Minha stack atual:
  - **Linguagem de Programação**: JavaScript, TypeScript, C#
