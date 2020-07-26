@@ -26,4 +26,5 @@
  - **Ferramentas mais usadas**: Git, Docker, DBeaver, Figma, Adobe XD, Postman/Insomnia, [FZF](https://github.com/junegunn/fzf)
  
  
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Eu amo me conectar com pessoas diferentes</b> então se você quer me conhecer <b>eu, ficarei feliz em conhecê-lo mais!</b> 😊</em>
  
