@@ -1,6 +1,6 @@
 # Silvanei Martins :man_technologist:
 
-## Ola! 🖖
+## Olá! 🖖 PT-BR 🇧🇷
 <h3>Meu nome é Silvanei Martins, sou desenvolvedor brasileiro de back-end / front-end / Mobile. Estou interessado em melhorar minhas habilidades como desenvolvedor e aprender sobre mais sobre a tecnologia.<h3>
 
 ### :man_technologist: Minha stack atual:
@@ -10,8 +10,8 @@
  - **Outras Ferramentas**: Git, Docker, Linux, MacOS;
  
  ### 📚 O que estou aprendendo: 
- - **Linguagem de Programação**: Python
- - **Frameworks**: Flutter, Nextjs, Gatsby 
+ - **Linguagem de Programação**: Python,Java
+ - **Frameworks**: Flutter 
  - **Outras Ferramentas**: GraphQL, Google Cloud Platform, Amazon AWS
  
  ### ✔️ Meu ambiente de desenvolvimento:
