@@ -23,7 +23,7 @@
   <img align="left" alt="Pavan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
-<br /> 
+</br> 
  
 ![Twitter Follow](https://img.shields.io/twitter/follow/SilvaneiMartins?label=Segue-me)  </br>
 [![Linkedin: Silvanei Martins](https://img.shields.io/badge/Silvanei-Martins-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/silvanei-martins-a5412436/)](https://www.linkedin.com/in/silvanei-martins-a5412436/) </br>
