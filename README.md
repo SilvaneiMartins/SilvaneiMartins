@@ -4,7 +4,7 @@
 <h3>Meu nome é Silvanei Martins, sou desenvolvedor brasileiro de back-end / front-end / Mobile. Estou interessado em melhorar minhas habilidades como desenvolvedor e aprender sobre mais sobre a tecnologia.<h3>
  
 ![Twitter Follow](https://img.shields.io/twitter/follow/SilvaneiMartins?label=Segue-me) 
-[![Linkedin: Silvanei Martins](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/silvanei-martins-a5412436/)](https://www.linkedin.com/in/silvanei-martins-a5412436/)
+[![Linkedin: Silvanei Martins](https://img.shields.io/badge/silvanei-martins-a5412436?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/silvanei-martins-a5412436/)](https://www.linkedin.com/in/silvanei-martins-a5412436/)
 
 ### :man_technologist: Minha stack atual:
  - **Linguagem de Programação**: JavaScript, TypeScript, C#
