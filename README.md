@@ -29,6 +29,13 @@
 [![Linkedin: Silvanei Martins](https://img.shields.io/badge/Silvanei-Martins-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/silvanei-martins-a5412436/)](https://www.linkedin.com/in/silvanei-martins-a5412436/) </br>
 ![GitHub followers](https://img.shields.io/github/followers/SilvaneiMartins?label=Segue-me&style=social)
 
+### Falando sobre coisas pessoais:
+- 🛠 Atualmente, estou trabalhando com Node.js, Express.js, React, <br /> Graphql, Mongodb, Javascript, etc 💻.
+- 👨🏻‍💻 Atualmente estou aprendendo Full Stack Development 🚀.
+- 💬 Pergunte-me sobre qualquer coisa [Aqui](https://github.com/iampavangandhi/SilvaneiMartins/issues/2)! Fico feliz em ajudar.
+- ⚡ Curiosidade: Igual nem sempre é igual em Javascript.
+- 📫 Como me encontrar: oi@silvaneimartins.com.br
+
 ### :man_technologist: Minha stack atual:
  - **Linguagem de Programação**: JavaScript, TypeScript, C#
  - **Frameworks**: Express.js, React, React-Native, Nodejs
@@ -67,8 +74,6 @@
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Eu amo me conectar com pessoas diferentes</b> então se você quer me conhecer <b>eu, ficarei feliz em conhecê-lo mais!</b> 😊</em>
 
 <div align="center">
-
-### Show some ❤️ by starring some of the repositories!
-
+### Mostrar alguns ❤️ estrelando alguns dos repositórios!
 </div>
  
