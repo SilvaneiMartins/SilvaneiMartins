@@ -2,8 +2,6 @@
 
 <h4>Meu nome é Silvanei Martins, sou desenvolvedor brasileiro de back-end / front-end / Mobile. Estou interessado em melhorar minhas habilidades como desenvolvedor e aprender sobre mais sobre a tecnologia.<h4> 
 
-</br>
- 
 <a href="https://twitter.com/SilvaneiMartins">
   <img align="left" alt="Pavan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -21,7 +19,8 @@
 </a>
 <a href="https://www.facebook.com/silvanei.martins.31/">
   <img align="left" alt="Pavan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>  </br>
+</a>
+ 
  
 ![Twitter Follow](https://img.shields.io/twitter/follow/SilvaneiMartins?label=Segue-me)  </br>
 [![Linkedin: Silvanei Martins](https://img.shields.io/badge/Silvanei-Martins-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/silvanei-martins-a5412436/)](https://www.linkedin.com/in/silvanei-martins-a5412436/) </br>
