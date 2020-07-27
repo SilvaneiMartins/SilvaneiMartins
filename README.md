@@ -48,6 +48,8 @@
  - **Linguagem de Programação**: Python,Java
  - **Frameworks**: Flutter 
  - **Outras Ferramentas**: GraphQL, Google Cloud Platform, Amazon AWS
+ - **Escola Fullstack**: [Rocketseat](https://devsamurai.com.br/)
+ - **Escola Fullstack**: [Rocketseat](https://rocketseat.com.br/)
  
  ### ✔️ Meu ambiente de desenvolvimento:
  - **Sistema Operacional**: Arch Linux, Linux/Manjaro
