@@ -32,7 +32,7 @@
 ### Falando sobre coisas pessoais:
 - 🛠 Atualmente, estou trabalhando com Node.js, Express.js, React, <br /> Graphql, Mongodb, Javascript, etc 💻.
 - 👨🏻‍💻 Atualmente estou aprendendo Full Stack Development 🚀.
-- 💬 Pergunte-me sobre qualquer coisa [Aqui](https://github.com/SilvaneiMartins/SilvaneiMartins/issues/2)! Fico feliz em ajudar.
+- 💬 Pergunte-me sobre qualquer coisa [Aqui](https://github.com/SilvaneiMartins/issues/2)! Fico feliz em ajudar.
 - ⚡ Curiosidade: Igual nem sempre é igual em Javascript.
 - 📫 Como me encontrar: oi@silvaneimartins.com.br
 
