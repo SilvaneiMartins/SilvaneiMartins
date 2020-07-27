@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Silvanei Martins</h1> :man_technologist:
+  <h1>Silvanei Martins:man_technologist:</h1> 
 </div>
 
 <h4>Meu nome é Silvanei Martins, sou desenvolvedor brasileiro de back-end / front-end / Mobile. Estou interessado em melhorar minhas habilidades como desenvolvedor e aprender sobre mais sobre a tecnologia.<h4> 
