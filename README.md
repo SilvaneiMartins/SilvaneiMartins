@@ -76,7 +76,7 @@
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Eu amo me conectar com pessoas diferentes</b> então se você quer me conhecer <b>eu, ficarei feliz em conhecê-lo mais!</b> 😊</em>
 
 <div align="center">
-### Mostrar alguns ❤️ estrelando alguns dos repositórios!</br>
-### 📱 Empresa: Sam Security Develop
+❤️ Mostrar alguns estrelando alguns dos repositórios!</br>
+📱 Empresa: Sam Security Develop
 </div>
  
