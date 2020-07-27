@@ -2,7 +2,7 @@
 
 <h4>Meu nome é Silvanei Martins, sou desenvolvedor brasileiro de back-end / front-end / Mobile. Estou interessado em melhorar minhas habilidades como desenvolvedor e aprender sobre mais sobre a tecnologia.<h4> 
 
-<a href="https://twitter.com/SilvaneiMartins">
+<a align="center" href="https://twitter.com/SilvaneiMartins">
   <img align="left" alt="Pavan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/silvanei-martins-a5412436">
