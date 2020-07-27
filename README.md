@@ -32,9 +32,9 @@
 ### Falando sobre coisas pessoais:
 - 🛠 Atualmente, estou trabalhando com Node.js, Express.js, React, <br /> Graphql, Mongodb, Javascript, etc 💻.
 - 👨🏻‍💻 Atualmente estou aprendendo Full Stack Development 🚀.
-- 💬 Pergunte-me sobre qualquer coisa [Aqui](https://github.com/SilvaneiMartins/issues/2)! Fico feliz em ajudar.
 - ⚡ Curiosidade: Igual nem sempre é igual em Javascript.
-- 📫 Como me encontrar: oi@silvaneimartins.com.br
+- ✉️ Como encontrar por e-mail: silvaneimartins_rcc@hotmail.com / silvaneimartins34@gmail.com
+- 📱 Como encontrar por whatsapp comercial: +55 (69) 9.9970-8265
 
 ### :man_technologist: Minha stack atual:
  - **Linguagem de Programação**: JavaScript, TypeScript, C#
@@ -55,7 +55,6 @@
  - **Ferramentas mais usadas**: Git, Docker, DBeaver, Figma, Adobe XD, Postman/Insomnia, [FZF](https://github.com/junegunn/fzf)
  
 ### Idiomas e Ferramentas:
-
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -70,10 +69,10 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=SilvaneiMartins&show_icons=true&hide_border=true)
  
- 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Eu amo me conectar com pessoas diferentes</b> então se você quer me conhecer <b>eu, ficarei feliz em conhecê-lo mais!</b> 😊</em>
 
 <div align="center">
 ### Mostrar alguns ❤️ estrelando alguns dos repositórios!
+### 📱 Empresa: Sam Security Develop
 </div>
  
