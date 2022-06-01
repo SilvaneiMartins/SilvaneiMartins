@@ -20,7 +20,7 @@
     <img align="left" alt="Pavan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
   </a>
   <a href="https://www.facebook.com/silvanei.martins.31/">
-    <img align="left" alt="Pavan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+    <img align="left" color="#FFF" alt="Pavan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
   </a>
 </div>
 
