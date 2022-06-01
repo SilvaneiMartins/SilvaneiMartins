@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Silvanei Martins:man_technologist:</h1> 
+  <h1>:man_technologist:Silvanei Martins</h1> 
 </div>
 
 <h3>
@@ -21,8 +21,8 @@
   <a href="https://www.instagram.com/silvanei.martinss/?hl=pt-br/">
     <img align="left" alt="Pavan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
   </a>
-  <a  color="#FFF" href="https://www.facebook.com/silvanei.martins.31/">
-    <img align="left" alt="Pavan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <a href="https://www.facebook.com/silvanei.martins.31/">
+    <img fill: #fff align="left" alt="Pavan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
   </a>
 </div>
 
