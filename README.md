@@ -95,7 +95,7 @@
 <!-- YouTube Cards - WIP by DenverCoder1 -->
 
 <!-- YOUTUBE:START -->
-[![Aula 06  - Curso React Native + Typescript](https://freshidea.com/jonah/app/youtube-card/?id=lzyd5wHzDmU)](https://youtu.be/AC3WRyARCno "Aula 06 - Curso React Native + Typescript - Executando o projeto Wallet no Android e IOS")
+[![Aula 06  - Curso React Native + Typescript](https://i9.ytimg.com/vi/yZi7A9F7nhc/mqdefault.jpg?v=6296cea6&sqp=CMiY35QG&rs=AOn4CLCVHoELEOcPx1AduHl2VK73TdGkHw)](https://youtu.be/AC3WRyARCno "Aula 06 - Curso React Native + Typescript - Executando o projeto Wallet no Android e IOS")
 [![Aula 05  - Curso React Native + Typescript](https://freshidea.com/jonah/app/youtube-card/?id=0p_eQGKFY3I)](https://youtu.be/0nwksyDWjrM "Aula 05  - Curso React Native + Typescript - Configurando babel resolver e paths")
 [![Aula 04  - Curso React Native + Typescript](https://freshidea.com/jonah/app/youtube-card/?id=Mt_Bsj6K9Lw)](https://youtu.be/YBVeCd-uyhc "Aula 04  - Curso React Native + Typescript - Criando estrutura de pasta")
 [![Aula 03  - Curso React Native + Typescript](https://freshidea.com/jonah/app/youtube-card/?id=xsA5QAkr-04)](https://youtu.be/YzpbrlcD3TA "Aula 03 - Curso React Native + Typescript  - Conhecendo estrutura do projeto")
