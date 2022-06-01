@@ -7,16 +7,16 @@
  <h3> 
 <div align="center">
   <a style="color:#FFF;" href="https://twitter.com/SilvaneiMartins">
-    <img align="left" fill: #fff alt="Pavan's Twitter" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+    <img align="left" style="color:#FFF;" alt="Pavan's Twitter" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
   </a>
   <a style="color:#FFF;" href="https://www.linkedin.com/in/silvanei-martins-a5412436">
-    <img align="left" fill: #fff  alt="Linkdein" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+    <img align="left" alt="Linkdein" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
   <a style="color:#FFF;" href="https://github.com/SilvaneiMartins">
-    <img align="left" fill: #fff alt="Github" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+    <img align="left" alt="Github" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
   </a>
   <a style="color:#FFF;" href="https://t.me/silvaneimartins">
-    <img align="left" fill: #fff alt="Telegram" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+    <img align="left" alt="Telegram" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
   </a>
 </div>
 
