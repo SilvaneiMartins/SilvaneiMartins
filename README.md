@@ -26,6 +26,8 @@
     <a href="https://www.youtube.com/channel/UCmYDvec1_liMzbQcbXtuLmg/videos">
     <img align="left" alt="Silvanei Martins | YouTube" height="48" width="48" src="https://i.imgur.com/vYUqjOj.png">
   </a>
+  </br>
+  </br>
 </div>
 
 </br>
