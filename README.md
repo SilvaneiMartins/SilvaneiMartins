@@ -89,6 +89,22 @@
  
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so I know you want to know me, I'll be happy in knowing the most!</b> 😊</em>
 
+## 📺 Latest YouTube videos
+
+<!-- Feed workflow - https://github.com/gautamkrishnar/blog-post-workflow -->
+<!-- YouTube Cards - WIP by DenverCoder1 -->
+
+<!-- YOUTUBE:START -->
+[![Aula 06  - Curso React Native + Typescript](https://freshidea.com/jonah/app/youtube-card/?id=lzyd5wHzDmU)](https://youtu.be/AC3WRyARCno "Aula 06 - Curso React Native + Typescript - Executando o projeto Wallet no Android e IOS")
+[![Aula 05  - Curso React Native + Typescript](https://freshidea.com/jonah/app/youtube-card/?id=0p_eQGKFY3I)](https://youtu.be/0nwksyDWjrM "Aula 05  - Curso React Native + Typescript - Configurando babel resolver e paths")
+[![Aula 04  - Curso React Native + Typescript](https://freshidea.com/jonah/app/youtube-card/?id=Mt_Bsj6K9Lw)](https://youtu.be/YBVeCd-uyhc "Aula 04  - Curso React Native + Typescript - Criando estrutura de pasta")
+[![Aula 03  - Curso React Native + Typescript](https://freshidea.com/jonah/app/youtube-card/?id=xsA5QAkr-04)](https://youtu.be/YzpbrlcD3TA "Aula 03 - Curso React Native + Typescript  - Conhecendo estrutura do projeto")
+[![Aula 02  - Curso React Native + Typescript](https://freshidea.com/jonah/app/youtube-card/?id=TzR8At0SFQI)](https://youtu.be/yZi7A9F7nhc "Aula 02 - Curso React Native + Typescript - Criando o projeto com expo")
+[![Aula 01  - Curso React Native + Typescript](https://freshidea.com/jonah/app/youtube-card/?id=jMeOejBy8Hc)](https://youtu.be/3wP4JcDVdaU "Aula 01 -  Curso React Native + Typescript  -  Apresentando o projeto")
+<!-- YOUTUBE:END -->
+
+[<img src="https://custom-icon-badges.herokuapp.com/badge/-Subscribe-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/DevProTips?sub_confirmation=1)
+
 <div align="center">
 ❤️ Show some starring some two repositories!</br>
 📱 Empresa: Silvanei Martins
