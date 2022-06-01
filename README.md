@@ -2,7 +2,13 @@
   <h1>Silvanei Martins:man_technologist:</h1> 
 </div>
 
-<h4>Meu nome é Silvanei Martins, sou desenvolvedor brasileiro de back-end / front-end / Mobile. Estou interessado em melhorar minhas habilidades como desenvolvedor e aprender sobre mais sobre a tecnologia.<h4> 
+<h3>
+    I am a dedicated Fullstack developer with skills in Javascript, React Js, React Native, Typescrypt, Node Js, Html, CSS and looking for new knowledge like: Python and Flutter, in recent years I have specialized in Mobile using the tools, javascript, typscript, react native, mogodb, postgrees, watermelondb, asyncstorage, styled components among other technologies that can be used with react native.
+
+    I participated in several projects and applications both backend, frontend and mobile for customers from different areas and different platforms, from applications for barbershop management, cinema and stock management, backend for management and registration, desktop ERP and PCP software (Planning and Control of Production) and many other projects all always focused on optimizing customer processes and controlling their companies or even zeroing customer needs.
+
+    I'm always looking to collaborate with my experiences, skills, and the need to always be looking for knowledge so that the team keeps growing and always getting great results. My intention is to grow together with the team and the company, also to be successful in my career being part of this wonderful universe.
+ <h3> 
 <div align="center">
   <a href="https://twitter.com/SilvaneiMartins">
     <img align="left" alt="Pavan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -19,8 +25,8 @@
   <a href="https://www.instagram.com/silvanei.martinss/?hl=pt-br/">
     <img align="left" alt="Pavan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
   </a>
-  <a href="https://www.facebook.com/silvanei.martins.31/">
-    <img align="left" color="#FFF" alt="Pavan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <a  color="#FFF" href="https://www.facebook.com/silvanei.martins.31/">
+    <img align="left" alt="Pavan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
   </a>
 </div>
 
