@@ -8,10 +8,8 @@
   I'm always looking to collaborate with my experiences, skills, and the need to always be looking for knowledge so that the team keeps growing and always getting great results. My intention is to grow together with the team and the company, also to be successful in my career being part of this wonderful universe.
  <h3> 
    
-  <div align="left">
-    <h1>Minhas Social Network of Development</h1> 
-  </div>
-   
+#  Minhas Social Network of Development 
+
 <div align="center">
   <a href="https://twitter.com/SilvaneiMartins">
     <img align="left" alt="Silvanei Martins | Twitter" height="48" width="48" src="https://i.imgur.com/txohG0c.png" />
