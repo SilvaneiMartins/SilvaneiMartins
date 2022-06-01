@@ -102,10 +102,10 @@
 [![Aula 01  - Curso React Native + Typescript](https://i9.ytimg.com/vi/yZi7A9F7nhc/mqdefault.jpg?v=6296cea6&sqp=CMiY35QG&rs=AOn4CLCVHoELEOcPx1AduHl2VK73TdGkHw)](https://youtu.be/3wP4JcDVdaU "Aula 01 -  Curso React Native + Typescript  -  Apresentando o projeto")
 <!-- YOUTUBE:END -->
 
-<div align="left">
+<h4 align="left">
   Escreva no canal do youtube!
+</h4>
 [<img src="https://custom-icon-badges.herokuapp.com/badge/-Subscribe-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/channel/UCmYDvec1_liMzbQcbXtuLmg?sub_confirmation=1)
-</div>
 
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so I know you want to know me, I'll be happy in knowing the most!</b> 😊</em>
