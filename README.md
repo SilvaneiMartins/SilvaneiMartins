@@ -32,13 +32,23 @@
 </br>
 </br>
  
-   ![Twitter Follow](https://img.shields.io/twitter/follow/SilvaneiMartins?label=Segue-me)
-    </br>
-    </br>
-   ![Linkedin: Silvanei Martins](https://img.shields.io/badge/Silvanei-Martins-blue?style=flat-       square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/silvanei-martins-a5412436/)](https://www.linkedin.com/in/silvanei-martins-a5412436/)
-    </br>
-    </br>
-   ![GitHub followers](https://img.shields.io/github/followers/SilvaneiMartins?label=Segue-me&style=social)
+<!-- Social badges section -->
+<!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
+<!-- YouTube stats - https://github.com/DenverCoder1/github-readme-youtube-stats -->
+<!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
+<!-- Star counter - https://github.com/idealclover/GitHub-Star-Counter -->
+<p align="center">
+  <a href="https://www.youtube.com/c/DevProTips?sub_confirmation=1">
+    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.herokuapp.com/youtube/channel/subscribers/UCipSxT7a3rn81vGLw9lqRkg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
+  <a href="https://www.youtube.com/c/DevProTips">
+    <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.herokuapp.com/youtube/channel/views/UCipSxT7a3rn81vGLw9lqRkg?color=%23E1AD0E&logo=video&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
+  <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&logoColor=white&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/DenverCoder1"/></a>
+  <a href="https://github.com/DenverCoder1?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/DenverCoder1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/DenverCoder1/Simple-View-Counter">
+    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
+</p>
 
 ### Talking about things pessoais:
 - 🛠 Currently, I am working on: Typescript, Javascript and React Native.
