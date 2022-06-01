@@ -23,12 +23,10 @@
   <a href="https://t.me/silvaneimartins">
     <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://i.imgur.com/YfC6fQg.png">
   </a>
-  <a href="[https://youtube.com/channel/UC5QVwln-tycBa-CoB88a7wA](https://www.youtube.com/channel/UCmYDvec1_liMzbQcbXtuLmg/videos)">
+    <a href="https://www.youtube.com/channel/UCmYDvec1_liMzbQcbXtuLmg/videos">
     <img alt="YouTube" title="YouTube" height="48" width="48" src="https://i.imgur.com/vYUqjOj.png">
-  </a></br>
+  </a>
 </div>
-  
-  <a href="https://imgur.com/txohG0c"><img src="https://i.imgur.com/txohG0c.png" title="source: imgur.com" /></a>
 
 </br>
 </br>
