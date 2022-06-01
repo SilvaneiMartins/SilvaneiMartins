@@ -11,17 +11,20 @@
   </div>
    
 <div align="center">
-  <a style="color:#FFF;" href="https://twitter.com/SilvaneiMartins">
-    <img align="left" style="color:#FFF;" alt="Pavan's Twitter" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <a href="https://twitter.com/SilvaneiMartins">
+    <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="assets/twitter.svg">
   </a>
-  <a style="color:#FFF;" href="https://www.linkedin.com/in/silvanei-martins-a5412436">
-    <img align="left" alt="Linkdein" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <a href="https://www.linkedin.com/in/silvanei-martins-a5412436">
+    <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="assets/linkedin.svg">
   </a>
-  <a style="color:#FFF;" href="https://github.com/SilvaneiMartins">
-    <img align="left" alt="Github" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <a href="https://github.com/SilvaneiMartins">
+    <img alt="GitHub" title="GitHub" height="48" width="48" src="assets/github.svg">
   </a>
-  <a style="color:#FFF;" href="https://t.me/silvaneimartins">
-    <img align="left" alt="Telegram" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  <a href="https://t.me/silvaneimartins">
+    <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="assets/telegram.svg">
+  </a>
+  <a href="[https://youtube.com/channel/UC5QVwln-tycBa-CoB88a7wA](https://www.youtube.com/channel/UCmYDvec1_liMzbQcbXtuLmg/videos)">
+    <img alt="YouTube" title="YouTube" height="48" width="48" src="assets/youtube.svg">
   </a>
 </div>
 
@@ -66,25 +69,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-
-**Currently working with:**
-
-<a href="https://www.drupal.org/" title="Drupal"><img src="icons/drupal.png" /></a>
-<a href="https://www.php.net/" title="PHP"><img src="icons/php.png" /></a>
-<a href="https://getcomposer.org/" title="Composer"><img src="icons/composer.png" /></a>
-<a href="https://www.python.org/" title="Python"><img src="icons/python.png" /></a>
-<a href="https://git-scm.com/" title="Git"><img src="icons/git.png" /></a>
-<a href="https://www.docker.com/" title="Docker"><img src="icons/docker.png" /></a>
-<a href="https://github.com/" title="GitHub"><img src="icons/github.png" /></a>
-<a href="https://gitlab.com/" title="GitLab"><img src="icons/gitlab.png" /></a>
-<a href="https://www.terraform.io/" title="Terraform"><img src="icons/terraform.png" /></a>
-<a href="https://www.ansible.com/" title="Ansible"><img src="icons/ansible.png" /></a>
-<a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="icons/javascript.png" /></a>
-<a href="https://www.typescriptlang.org/" title="TypeScript"><img src="icons/typescript.png" /></a>
-<a href="https://www.mysql.com/" title="MySQL"><img src="icons/mysql.png" /></a>
-<a href="https://mariadb.org/" title="MariaDB"><img src="icons/mariadb.png" /></a>
-<a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="icons/vscode.png" /></a>
-<a href="https://www.jetbrains.com/phpstorm/" title="PHPStorm"><img src="icons/phpstorm.png" /></a>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=SilvaneiMartins&show_icons=true&hide_border=true)
  
