@@ -12,13 +12,13 @@
    
 <div align="center">
   <a href="https://twitter.com/SilvaneiMartins">
-    <img align="left" alt="Silvanei Martins | Twitter" width="48px" src="https://i.imgur.com/xTBlBLb.png" />
+    <img align="left" alt="Silvanei Martins | Twitter" width="48px" src="https://i.imgur.com/txohG0c.png" />
   </a>
   <a href="https://www.linkedin.com/in/silvanei-martins-a5412436">
     <img align="left" alt="LinkedIn" width="48px" src="https://i.imgur.com/GTcoYI1.png" />
   </a>
   <a href="https://github.com/SilvaneiMartins">
-    <img alt="GitHub" title="GitHub" height="48" width="48" src="assets/github.svg">
+    <img alt="GitHub" title="GitHub" height="48" width="48" src="https://i.imgur.com/xTBlBLb.png">
   </a>
   <a href="https://t.me/silvaneimartins">
     <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://i.imgur.com/YfC6fQg.png">
@@ -27,6 +27,8 @@
     <img alt="YouTube" title="YouTube" height="48" width="48" src="https://i.imgur.com/vYUqjOj.png">
   </a></br>
 </div>
+  
+  <a href="https://imgur.com/txohG0c"><img src="https://i.imgur.com/txohG0c.png" title="source: imgur.com" /></a>
 
 </br>
 </br>
