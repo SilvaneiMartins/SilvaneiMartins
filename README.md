@@ -104,8 +104,8 @@
 
 <div align="left">
   Escreva no canal do youtube!
-</div>
 [<img src="https://custom-icon-badges.herokuapp.com/badge/-Subscribe-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/channel/UCmYDvec1_liMzbQcbXtuLmg?sub_confirmation=1)
+</div>
 
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so I know you want to know me, I'll be happy in knowing the most!</b> 😊</em>
