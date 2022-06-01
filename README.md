@@ -6,7 +6,7 @@
     I am a dedicated Fullstack developer with skills in Javascript, React Js, React Native, Typescrypt, Node Js, Html, CSS and looking for new knowledge like: Python and Flutter, in recent years I have specialized in Mobile using the tools, javascript, typscript, react native, mogodb, postgrees, watermelondb, asyncstorage, styled components among other technologies that can be used with react native. I participated in several projects and applications both backend, frontend and mobile for customers from different areas and different platforms, from applications for barbershop management, cinema and stock management, backend for management and registration, desktop ERP and PCP software (Planning and Control of Production) and many other projects all always focused on optimizing customer processes and controlling their companies or even zeroing customer needs. I'm always looking to collaborate with my experiences, skills, and the need to always be looking for knowledge so that the team keeps growing and always getting great results. My intention is to grow together with the team and the company, also to be successful in my career being part of this wonderful universe.
  <h3> 
    
-  <div align="right">
+  <div align="left">
     <h1>Minhas Social Network of Development</h1> 
   </div>
    
@@ -15,7 +15,7 @@
     <img align="left" alt="Silvanei Martins | Twitter" width="48px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
   </a>
   <a href="https://www.linkedin.com/in/silvanei-martins-a5412436">
-    <img align="left" alt="LinkedIn" width="48px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+    <img align="left" alt="LinkedIn" width="48px" src="[https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg](https://i.imgur.com/GTcoYI1.png)" />
   </a>
   <a href="https://github.com/SilvaneiMartins">
     <img alt="GitHub" title="GitHub" height="48" width="48" src="assets/github.svg">
