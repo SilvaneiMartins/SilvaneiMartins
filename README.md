@@ -15,7 +15,7 @@
     <img align="left" alt="Silvanei Martins | Twitter" width="48px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
   </a>
   <a href="https://www.linkedin.com/in/silvanei-martins-a5412436">
-    <img align="left" alt="LinkedIn" width="48px" src="[https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg](https://i.imgur.com/GTcoYI1.png)" />
+    <img align="left" alt="LinkedIn" width="48px" src="https://imgur.com/GTcoYI1" />
   </a>
   <a href="https://github.com/SilvaneiMartins">
     <img alt="GitHub" title="GitHub" height="48" width="48" src="assets/github.svg">
