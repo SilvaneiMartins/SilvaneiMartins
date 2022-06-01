@@ -12,10 +12,10 @@
    
 <div align="center">
   <a href="https://twitter.com/SilvaneiMartins">
-    <img alt="Silvanei Martins | Twitter" width="48px" src="https://i.imgur.com/txohG0c.png" />
+    <img align="left" alt="Silvanei Martins | Twitter" height="48" width="48" src="https://i.imgur.com/txohG0c.png" />
   </a>
   <a href="https://www.linkedin.com/in/silvanei-martins-a5412436">
-    <img align="left" alt="Silvanei Martins | inkedIn" width="48px" src="https://i.imgur.com/GTcoYI1.png" />
+    <img align="left" alt="Silvanei Martins | inkedIn" height="48" width="48" src="https://i.imgur.com/GTcoYI1.png" />
   </a>
   <a href="https://github.com/SilvaneiMartins">
     <img align="left" alt="Silvanei Martins | GitHub" height="48" width="48" src="https://i.imgur.com/xTBlBLb.png">
