@@ -32,9 +32,15 @@
 </br>
 </br>
  
-![Twitter Follow](https://img.shields.io/twitter/follow/SilvaneiMartins?label=Segue-me)  </br>
-[![Linkedin: Silvanei Martins](https://img.shields.io/badge/Silvanei-Martins-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/silvanei-martins-a5412436/)](https://www.linkedin.com/in/silvanei-martins-a5412436/) </br>
-![GitHub followers](https://img.shields.io/github/followers/SilvaneiMartins?label=Segue-me&style=social)
+ <div align="left">
+    ![Twitter Follow](https://img.shields.io/twitter/follow/SilvaneiMartins?label=Segue-me)  </br>
+ </div>
+  <div align="left">
+  [![Linkedin: Silvanei Martins](https://img.shields.io/badge/Silvanei-Martins-blue?style=flat-       square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/silvanei-martins-a5412436/)](https://www.linkedin.com/in/silvanei-martins-a5412436/) </br>
+   </div>
+ <div align="left">
+      ![GitHub followers](https://img.shields.io/github/followers/SilvaneiMartins?label=Segue-me&style=social)
+  </div>
 
 ### Talking about things pessoais:
 - 🛠 Currently, I am working on: Typescript, Javascript and React Native.
