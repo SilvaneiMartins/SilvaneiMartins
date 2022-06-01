@@ -1,6 +1,5 @@
 <div align="left">
-  <h1>Name</h1>
-  <h1>:man_technologist: Silvanei Martins</h1> 
+  <h1>:man_technologist:Name: Silvanei Martins</h1> 
 </div>
 
 <h3>
