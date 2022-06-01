@@ -12,19 +12,19 @@
    
 <div align="center">
   <a href="https://twitter.com/SilvaneiMartins">
-    <img align="left" alt="Silvanei Martins | Twitter" width="48px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+    <img align="left" alt="Silvanei Martins | Twitter" width="48px" src="https://i.imgur.com/xTBlBLb.png" />
   </a>
   <a href="https://www.linkedin.com/in/silvanei-martins-a5412436">
-    <img align="left" alt="LinkedIn" width="48px" src="https://imgur.com/GTcoYI1" />
+    <img align="left" alt="LinkedIn" width="48px" src="https://i.imgur.com/GTcoYI1.png" />
   </a>
   <a href="https://github.com/SilvaneiMartins">
     <img alt="GitHub" title="GitHub" height="48" width="48" src="assets/github.svg">
   </a>
   <a href="https://t.me/silvaneimartins">
-    <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="assets/telegram.svg">
+    <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://i.imgur.com/YfC6fQg.png">
   </a>
   <a href="[https://youtube.com/channel/UC5QVwln-tycBa-CoB88a7wA](https://www.youtube.com/channel/UCmYDvec1_liMzbQcbXtuLmg/videos)">
-    <img alt="YouTube" title="YouTube" height="48" width="48" src="assets/youtube.svg">
+    <img alt="YouTube" title="YouTube" height="48" width="48" src="https://i.imgur.com/vYUqjOj.png">
   </a></br>
 </div>
 
