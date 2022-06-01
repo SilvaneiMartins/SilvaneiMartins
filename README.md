@@ -50,29 +50,30 @@
     <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
 </p>
 
-### Talking about things pessoais:
+# Personal Information:
+## Talking about things pessoais:
 - 🛠 Currently, I am working on: Typescript, Javascript and React Native.
 - 👨🏻‍💻 I am currently: Development Analyst Mr 🚀.
 - ⚡ Curiosity: The same is always the same in Javascript and Typescript.
 - ✉️ How to find by email: silvaneimartins_rcc@hotmail.com
 - 📱 How to find by WhatsApp:: +55 (69) 9.8405-2620
 
-### :man_technologist: Minha Current Stack:
+## :man_technologist: Minha Current Stack:
  - **Programming Language**: JavaScript, TypeScript, Python
  - **Frameworks**: React, React-Native
  - **Craps Bank**: PostgreSQL, MySql, MongoDB, Firebase Firestore
  - **Other Hardware**: Git, GitHub, Docker, Linux, MacOS, Google Cloud Platform, Amazon AWS
  
- ### 📚 What am I learning?: 
+ ## 📚 What am I learning?: 
  - **Not Time**: Unreal Engine 5, Unity
  - **Other Hardware**: GraphQL, Prisma, Next Js
  
- ### ✔️ My development environment:
+ ## ✔️ My development environment:
  - **Operational System**: Ubuntu, Windows e MacOs
  - **Editor**: Visual Studio Code, Sublime Text
  - **Most used hardware**: Git, GitHub, Docker, DBeaver, Figma
  
-### Languages and Tools:
+# Languages and Tools:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
@@ -88,7 +89,7 @@
 ![Github stats](https://github-readme-stats.vercel.app/api?username=SilvaneiMartins&show_icons=true&hide_border=true)
  
 
-## 📺 Latest YouTube videos
+# 📺 Latest YouTube videos
 
 <!-- Feed workflow - https://github.com/gautamkrishnar/blog-post-workflow -->
 <!-- YouTube Cards - WIP by DenverCoder1 -->
