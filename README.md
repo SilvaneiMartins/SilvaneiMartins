@@ -86,8 +86,23 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=SilvaneiMartins&show_icons=true&hide_border=true)
  
+# 📺 Latest YouTube videos
 
-![Snake animation](https://github.com/USERNAME/USERNAME/blob/output/github-contribution-grid-snake.svg)
+<!-- Feed workflow - https://github.com/gautamkrishnar/blog-post-workflow -->
+<!-- YouTube Cards - WIP by DenverCoder1 -->
+
+<!-- YOUTUBE:START -->
+<!-- [![Aula 06  - Curso React Native + Typescript](https://i9.ytimg.com/vi/yZi7A9F7nhc/mqdefault.jpg?v=6296cea6&sqp=CMiY35QG&rs=AOn4CLCVHoELEOcPx1AduHl2VK73TdGkHw)](https://youtu.be/AC3WRyARCno "Aula 06 - Curso React Native + Typescript - Executando o projeto Wallet no Android e IOS")
+[![Aula 05  - Curso React Native + Typescript](https://i9.ytimg.com/vi/yZi7A9F7nhc/mqdefault.jpg?v=6296cea6&sqp=CMiY35QG&rs=AOn4CLCVHoELEOcPx1AduHl2VK73TdGkHw)](https://youtu.be/0nwksyDWjrM "Aula 05  - Curso React Native + Typescript - Configurando babel resolver e paths")
+[![Aula 04  - Curso React Native + Typescript](https://i9.ytimg.com/vi/yZi7A9F7nhc/mqdefault.jpg?v=6296cea6&sqp=CMiY35QG&rs=AOn4CLCVHoELEOcPx1AduHl2VK73TdGkHw)](https://youtu.be/YBVeCd-uyhc "Aula 04  - Curso React Native + Typescript - Criando estrutura de pasta")
+[![Aula 03  - Curso React Native + Typescript](https://i9.ytimg.com/vi/yZi7A9F7nhc/mqdefault.jpg?v=6296cea6&sqp=CMiY35QG&rs=AOn4CLCVHoELEOcPx1AduHl2VK73TdGkHw)](https://youtu.be/YzpbrlcD3TA "Aula 03 - Curso React Native + Typescript  - Conhecendo estrutura do projeto")
+[![Aula 02  - Curso React Native + Typescript](https://i9.ytimg.com/vi/yZi7A9F7nhc/mqdefault.jpg?v=6296cea6&sqp=CMiY35QG&rs=AOn4CLCVHoELEOcPx1AduHl2VK73TdGkHw)](https://youtu.be/yZi7A9F7nhc "Aula 02 - Curso React Native + Typescript - Criando o projeto com expo")
+[![Aula 01  - Curso React Native + Typescript](https://i9.ytimg.com/vi/yZi7A9F7nhc/mqdefault.jpg?v=6296cea6&sqp=CMiY35QG&rs=AOn4CLCVHoELEOcPx1AduHl2VK73TdGkHw)](https://youtu.be/3wP4JcDVdaU "Aula 01 -  Curso React Native + Typescript  -  Apresentando o projeto") -->
+<!-- YOUTUBE:END -->
+
+ # Write on YouTube channel!
+[<img src="https://custom-icon-badges.herokuapp.com/badge/-Subscribe-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/channel/UCmYDvec1_liMzbQcbXtuLmg?sub_confirmation=1)
+
 
  # Prsonal Thought!
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so I know you want to know me, I'll be happy in knowing the most!</b> 😊</em>
