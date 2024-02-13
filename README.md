@@ -1,114 +1,56 @@
-<div align="left">
-  <h1>:man_technologist: Silvanei Martins</h1> 
-</div>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Silvanei Martins
+========================================================================================================================================
 
-<h3>
-    I am a dedicated Fullstack developer with skills in Javascript, React Js, React Native, Typescrypt, Node Js, Html, CSS and looking for new knowledge like: Python and Flutter, in recent years I have specialized in Mobile using the tools, javascript, typscript, react native, mogodb, postgrees, watermelondb, asyncstorage, styled components among other technologies that can be used with react native. 
-  I participated in several projects and applications both backend, frontend and mobile for customers from different areas and different platforms, from applications for barbershop management, cinema and stock management, backend for management and registration, desktop ERP and PCP software (Planning and Control of Production) and many other projects all always focused on optimizing customer processes and controlling their companies or even zeroing customer needs. 
-  I'm always looking to collaborate with my experiences, skills, and the need to always be looking for knowledge so that the team keeps growing and always getting great results. My intention is to grow together with the team and the company, also to be successful in my career being part of this wonderful universe.
- <h3> 
-   
-#  Minhas Social Network of Development 
+Web, Mobile and Backend Developer
+---------------------------------
 
-<div align="center">
-  <a href="https://twitter.com/SilvaneiMartins">
-    <img align="left" alt="Silvanei Martins | Twitter" height="48" width="48" src="https://i.imgur.com/txohG0c.png" />
-  </a>
-  <a href="https://www.linkedin.com/in/silvanei-martins-a5412436">
-    <img align="left" alt="Silvanei Martins | inkedIn" height="48" width="48" src="https://i.imgur.com/GTcoYI1.png" />
-  </a>
-  <a href="https://github.com/SilvaneiMartins">
-    <img align="left" alt="Silvanei Martins | GitHub" height="48" width="48" src="https://i.imgur.com/xTBlBLb.png">
-  </a>
-  <a href="https://t.me/silvaneimartins">
-    <img align="left" alt="Silvanei Martins | LinkedIn" height="48" width="48" src="https://i.imgur.com/YfC6fQg.png">
-  </a>
-    <a href="https://www.youtube.com/channel/UCmYDvec1_liMzbQcbXtuLmg/videos">
-    <img align="left" alt="Silvanei Martins | YouTube" height="48" width="48" src="https://i.imgur.com/vYUqjOj.png">
-  </a>
-  </br>
-   </div>
+👋 Olá, eu sou Silvanei Martins! 🚀 Sou um entusiasta da tecnologia, desenvolvedor de software fullstack e apaixonado por transformar ideias em soluções inovadoras. Minha jornada no mundo da programação começou com a busca incessante pelo entendimento das complexidades do desenvolvimento de software. 💼 Tenho experiência em uma variedade de tecnologias, desde frameworks front-end como React até back-end com Node.js e Nest Js e muitas outras ferramentas como segue algumas delas: React Native, Express, Fastify, Nest Js, React Js, Typescript, Javascript, Next Js, Rust, Swfit, SwfitUi, Docker, REST, gRPC e GraphQL. Meu objetivo é criar aplicações robustas, escaláveis, que impactem positivamente a vida das pessoas. 🌐 Atualmente, estou focado em \[projetos específicos ou áreas de interesse\]. Adoro explorar novas ferramentas, frameworks e metodologias para estar sempre atualizado com as últimas tendências da indústria e do mercado. 📚 Além do desenvolvimento de software, sou entusiasta em compartilhar conhecimento em meu canal. Acredito que o aprendizado contínuo é a chave para o sucesso na tecnologia, e estou sempre disposto a aprender e colaborar em projetos desafiadores. 🌟 Vamos conectar? Estou aberto a oportunidade de colaboração, networking e aprendizado mútuo.
 
-</br>
-</br>
- 
-<!-- Social badges section -->
-<!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
-<!-- YouTube stats - https://github.com/DenverCoder1/github-readme-youtube-stats -->
-<!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
-<!-- Star counter - https://github.com/idealclover/GitHub-Star-Counter -->
+* 🌍  I'm based in Vilhena, Rondônia/Brasil
+* 🖥️  See my portfolio at [Meu Portfolio](http://www.silvaneimartins.com.br)
+* ✉️  You can contact me at [silvaneimartins\_rcc@hotmail.com](mailto:silvaneimartins_rcc@hotmail.com)
+* 🧠  I'm learning Stefanini Brasil
+* ⚡  Game Developer Python and Engine Unreal
+
+<a href="https://www.github.com/silvaneimartins" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/silvaneimartins?logo=github&style=for-the-badge&color=6366f1&labelColor=27272a" /></a><a href="https://www.x.com/SilvaneiMartins" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/SilvaneiMartins?logo=twitter&style=for-the-badge&color=6366f1&labelColor=27272a"
+/></a>
+### Skills
+
 <p align="left">
-  <a href="https://www.youtube.com/channel/UCmYDvec1_liMzbQcbXtuLmg/videos">
-    <img alt="Youtube Subscribers" title="Subscribe to my YouTube Channel" src="https://custom-icon-badges.herokuapp.com/youtube/channel/subscribers/UCipSxT7a3rn81vGLw9lqRkg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-  <a href="https://github.com/SilvaneiMartins?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&logoColor=white&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/DenverCoder1"/></a>
-  <a href="https://github.com/SilvaneiMartins?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/DenverCoder1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/SilvaneiMartins/Simple-View-Counter">
-    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" /></a><a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored.svg" width="36" height="36" alt="Rust" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a><a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" height="36" alt="MacOS" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
 </p>
 
-# Personal Information:
-### :man_technologist: Talking about things pessoais:
-- 🛠 Currently, I am working on: Typescript, Javascript and React Native.
-- 👨🏻‍💻 I am currently: Development Analyst Mr 🚀.
-- ⚡ Curiosity: The same is always the same in Javascript and Typescript.
-- ✉️ How to find by email: silvaneimartins_rcc@hotmail.com
-- 📱 How to find by WhatsApp:: +55 (69) 9.8405-2620
+### Socials
 
-### :man_technologist: Minha Current Stack:
- - **Programming Language**: JavaScript, TypeScript, Python
- - **Frameworks**: React, React-Native
- - **Craps Bank**: PostgreSQL, MySql, MongoDB, Firebase Firestore
- - **Other Hardware**: Git, GitHub, Docker, Linux, MacOS, Google Cloud Platform, Amazon AWS
- 
- ### 📚 What am I learning?: 
- - **Not Time**: Unreal Engine 5, Unity
- - **Other Hardware**: GraphQL, Prisma, Next Js
- 
- ### ✔️ My development environment:
- - **Operational System**: Ubuntu, Windows e MacOs
- - **Editor**: Visual Studio Code, Sublime Text
- - **Most used hardware**: Git, GitHub, Docker, DBeaver, Figma
- 
-# Languages and Tools:
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<p align="left"> <a href="https://www.github.com/silvaneimartins" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/silvanei.martinss" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/silvanei-martins-a5412436/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/SilvaneiMartins" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a> <a href="https://www.youtube.com/@silvaneimartins2487" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /> </picture> </a> <a href="https://www.threads.net/@silvanei.martinss" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" /> </picture> </a></p>
+### Badges
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=SilvaneiMartins&show_icons=true&hide_border=true)
- 
-# 📺 Latest YouTube videos
+<b>My GitHub Stats</b>
 
-<!-- Feed workflow - https://github.com/gautamkrishnar/blog-post-workflow -->
-<!-- YouTube Cards - WIP by DenverCoder1 -->
+<a href="http://www.github.com/silvaneimartins"><img src="https://github-readme-stats.vercel.app/api?username=silvaneimartins&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=27272a&hide_border=true&show_icons=true" alt="silvaneimartins's GitHub stats" /></a>
 
-<!-- YOUTUBE:START -->
-<!-- [![Aula 06  - Curso React Native + Typescript](https://i9.ytimg.com/vi/yZi7A9F7nhc/mqdefault.jpg?v=6296cea6&sqp=CMiY35QG&rs=AOn4CLCVHoELEOcPx1AduHl2VK73TdGkHw)](https://youtu.be/AC3WRyARCno "Aula 06 - Curso React Native + Typescript - Executando o projeto Wallet no Android e IOS")
-[![Aula 05  - Curso React Native + Typescript](https://i9.ytimg.com/vi/yZi7A9F7nhc/mqdefault.jpg?v=6296cea6&sqp=CMiY35QG&rs=AOn4CLCVHoELEOcPx1AduHl2VK73TdGkHw)](https://youtu.be/0nwksyDWjrM "Aula 05  - Curso React Native + Typescript - Configurando babel resolver e paths")
-[![Aula 04  - Curso React Native + Typescript](https://i9.ytimg.com/vi/yZi7A9F7nhc/mqdefault.jpg?v=6296cea6&sqp=CMiY35QG&rs=AOn4CLCVHoELEOcPx1AduHl2VK73TdGkHw)](https://youtu.be/YBVeCd-uyhc "Aula 04  - Curso React Native + Typescript - Criando estrutura de pasta")
-[![Aula 03  - Curso React Native + Typescript](https://i9.ytimg.com/vi/yZi7A9F7nhc/mqdefault.jpg?v=6296cea6&sqp=CMiY35QG&rs=AOn4CLCVHoELEOcPx1AduHl2VK73TdGkHw)](https://youtu.be/YzpbrlcD3TA "Aula 03 - Curso React Native + Typescript  - Conhecendo estrutura do projeto")
-[![Aula 02  - Curso React Native + Typescript](https://i9.ytimg.com/vi/yZi7A9F7nhc/mqdefault.jpg?v=6296cea6&sqp=CMiY35QG&rs=AOn4CLCVHoELEOcPx1AduHl2VK73TdGkHw)](https://youtu.be/yZi7A9F7nhc "Aula 02 - Curso React Native + Typescript - Criando o projeto com expo")
-[![Aula 01  - Curso React Native + Typescript](https://i9.ytimg.com/vi/yZi7A9F7nhc/mqdefault.jpg?v=6296cea6&sqp=CMiY35QG&rs=AOn4CLCVHoELEOcPx1AduHl2VK73TdGkHw)](https://youtu.be/3wP4JcDVdaU "Aula 01 -  Curso React Native + Typescript  -  Apresentando o projeto") -->
-<!-- YOUTUBE:END -->
+<a href="http://www.github.com/silvaneimartins"><img src="https://github-readme-streak-stats.herokuapp.com/?user=silvaneimartins&stroke=ffffff&background=27272a&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
- # Write on YouTube channel!
-[<img src="https://custom-icon-badges.herokuapp.com/badge/-Subscribe-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/channel/UCmYDvec1_liMzbQcbXtuLmg?sub_confirmation=1)
+<a href="http://www.github.com/silvaneimartins"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=silvaneimartins&bg_color=27272a&color=ffffff&line=6366f1&point=ffffff&area_color=27272a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
+<a href="https://github.com/silvaneimartins" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=silvaneimartins&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
- # Prsonal Thought!
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so I know you want to know me, I'll be happy in knowing the most!</b> 😊</em>
+<b>Top Repositories</b>
 
-<div align="center">
-❤️ Show some starring some two repositories!</br>
-📱 Empresa: Silvanei Martins
-</div>
- 
+<div width="100%" align="center"><a href="https://github.com/silvaneimartins/mundo_super_pirata" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=silvaneimartins&repo=mundo_super_pirata&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=27272a&hide_border=true&locale=en" /></a><a href="https://github.com/silvaneimartins/sam-video-tamagui" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=silvaneimartins&repo=sam-video-tamagui&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=27272a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+<br /><br /><br /><br /><br />
+
+<div width="100%" align="center"><a href="https://github.com/silvaneimartins/threads-clone" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=silvaneimartins&repo=threads-clone&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=27272a&hide_border=true&locale=en" /></a><a href="https://github.com/silvaneimartins/moderno-dektop-app-tauri" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=silvaneimartins&repo=moderno-dektop-app-tauri&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=27272a&hide_border=true&locale=en" /></a></div>
+
+### Support Me
+
+<ul style="list-style-type: none; margin: 0;">
+
+<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/silvaneimartins"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
+
+<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/silvaneimartins"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li>
+
+</ul>
