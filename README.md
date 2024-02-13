@@ -6,15 +6,15 @@ Web, Mobile and Backend Developer
 ---------------------------------
 
 👋 Olá, eu sou Silvanei Martins! 
-</ br>
+<br />
 🚀 Sou um entusiasta da tecnologia, desenvolvedor de software fullstack e apaixonado por transformar ideias em soluções inovadoras. Minha jornada no mundo da programação começou com a busca incessante pelo entendimento das complexidades do desenvolvimento de software. 
-</ br>
+<br />
 💼 Tenho experiência em uma variedade de tecnologias, desde frameworks front-end como React até back-end com Node.js e Nest Js e muitas outras ferramentas como segue algumas delas: React Native, Express, Fastify, Nest Js, React Js, Typescript, Javascript, Next Js, Rust, Swfit, SwfitUi, Docker, REST, gRPC e GraphQL. Meu objetivo é criar aplicações robustas, escaláveis, que impactem positivamente a vida das pessoas. 
-</ br>
+<br />
 🌐 Atualmente, estou focado em \[projetos específicos ou áreas de interesse\]. Adoro explorar novas ferramentas, frameworks e metodologias para estar sempre atualizado com as últimas tendências da indústria e do mercado. 
-</ br>
+<br />
 📚 Além do desenvolvimento de software, sou entusiasta em compartilhar conhecimento em meu canal. Acredito que o aprendizado contínuo é a chave para o sucesso na tecnologia, e estou sempre disposto a aprender e colaborar em projetos desafiadores. 
-</ br>
+<br />
 🌟 Vamos conectar? Estou aberto a oportunidade de colaboração, networking e aprendizado mútuo.
 
 * 🌍  I'm based in Vilhena, Rondônia/Brasil
