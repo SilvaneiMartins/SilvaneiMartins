@@ -4,7 +4,20 @@
 
 ### Desenvolvedor Fullstack — Web, Mobile e Backend
 
-Olá! Sou o Silvanei Martins, desenvolvedor de software com experiência em aplicações modernas e escaláveis. Tenho paixão por tecnologia, inovação e por transformar ideias em produtos reais e funcionais.
+👋 Olá, sou Silvanei Martins
+Desenvolvedor Fullstack — Mobile, Web e Backend
+(React, React Native, Next.js, NestJS, TypeScript, Swift, SwiftUI)
+
+🚀 Sou apaixonado por tecnologia e desenvolvimento de software. Minha jornada começou com a curiosidade em entender as camadas por trás das aplicações modernas, e desde então venho transformando ideias em soluções inovadoras e escaláveis.
+
+💼 Tenho experiência sólida no ecossistema JavaScript/TypeScript, atuando tanto no front-end quanto no back-end com ferramentas como React, Next.js, React Native, NestJS, Express, Fastify e Node.js. Também trabalho com tecnologias como GraphQL, gRPC, REST APIs, Docker, Swift/SwiftUI, Rust, entre outras.
+
+🌐 Atualmente, estou focado em projetos voltados para plataformas SaaS, sistemas financeiros e aplicações mobile. Estou sempre em busca de novas ferramentas, arquiteturas e boas práticas para criar produtos mais performáticos, seguros e acessíveis.
+
+📚 Além de programar, gosto de compartilhar conhecimento por meio do meu canal no YouTube, onde ensino conceitos de desenvolvimento e arquitetura de software. Acredito no poder do aprendizado contínuo e na colaboração entre devs como forma de evolução pessoal e profissional.
+
+🌟 Vamos nos conectar? Estou aberto a parcerias, networking e oportunidades desafiadoras.
+Let’s build something amazing together.
 
 ---
 
