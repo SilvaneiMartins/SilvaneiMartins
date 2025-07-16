@@ -11,11 +11,21 @@ Olá! Sou o Silvanei Martins, desenvolvedor de software com experiência em apli
 ## 🚀 Sobre mim
 
 - 🎯 Atuo como desenvolvedor fullstack, com foco em **aplicações web e mobile**.
+- 🛍️ Fundador da loja [SamMartins](https://www.sammartins.com/), uma iniciativa que combina tecnologia e empreendedorismo.
 - 💻 Especialista em tecnologias como **React, React Native, Next.js, NestJS, Node.js, TypeScript, Docker**, entre outras.
 - 🧠 Estudo continuamente **boas práticas, arquitetura de software, performance e segurança**.
 - 📚 Compartilho conhecimento no [meu canal no YouTube](https://www.youtube.com/@silvaneimartins2487).
 - 🌱 Atualmente focado em projetos de **SaaS, fintechs e plataformas educacionais**.
 - 📍 Baseado em Vilhena, Rondônia – Brasil.
+
+---
+
+## 🚀 Projetos em Destaque
+
+### 🛒 [SamMartins](https://www.sammartins.com/)
+E-commerce desenvolvido com foco em performance e escalabilidade. Utiliza tecnologias modernas como Next.js, TailwindCSS, e Stripe. Além de servir como plataforma real de vendas, também funciona como laboratório para testes de funcionalidades modernas de front e back-end.
+
+“Além do desenvolvimento, empreendo com a SamMartins, uma loja online onde aplico minhas habilidades técnicas em um negócio real, desde a construção da plataforma até a operação.”
 
 ---
 
@@ -52,6 +62,7 @@ Swift • SwiftUI • Go • Rust (iniciante) • Figma • Adobe XD
 ## 📬 Contato
 
 - 🌐 [Portfólio](http://www.silvaneimartins.com.br)
+- 🛍️ [Loja SamMartins](https://www.sammartins.com/)
 - 📧 [silvaneimartins_rcc@hotmail.com](mailto:silvaneimartins_rcc@hotmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/silvanei-martins-a5412436/)
 - 🐙 [GitHub](https://github.com/silvaneimartins)
@@ -81,6 +92,8 @@ Se você curte meu conteúdo ou algum projeto foi útil para você, considere ap
         alt="Silvanei Martins"
     />
 </a>
+
+---
 
 **Silvanei de Almeida Martins**  
 Desenvolvedor Fullstack • Criador de Conteúdo • Apaixonado por Tecnologia
